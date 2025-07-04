@@ -51,6 +51,7 @@ func (m *Master) Run() {
 		log.Fatal(err)
 	}
 
+	fmt.Println("Master is listening on port 1234")
 	for {
         conn, err := l.Accept()
         if err != nil {
@@ -63,9 +64,9 @@ func (m *Master) Run() {
 func main() {
     m := &Master{
         tasks: []mr.MapTask{
-            {TaskID: 0, Filename: "input1.txt"},
-            {TaskID: 1, Filename: "input2.txt"},
-			{TaskID: 2, Filename: "input3.txt"},
+            {TaskID: 0, Filename: "input/input1.txt"},
+            {TaskID: 1, Filename: "input/input2.txt"},
+			{TaskID: 2, Filename: "input/input3.txt"},
         },
     }
     m.Run()

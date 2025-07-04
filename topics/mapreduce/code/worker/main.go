@@ -14,21 +14,38 @@ func main() {
 		log.Fatal(err)
 	}
 
-	var task mr.MapTask
-	err = client.Call("Master.RequestMapTask", struct{}{}, &task)
-	if task.TaskID == -1 {
-		fmt.Println("No map tasks available; exiting")
-        return
+	for 
+	{
+		var task mr.MapTask
+		err = client.Call("Master.RequestMapTask", struct{}{}, &task)
+		if err != nil {
+			log.Fatal("RequestMapTask failed:", err)
+		}
+
+		if task.TaskID == -1 {
+			fmt.Println("No map tasks available; exiting")
+			return
+		}
+
+		fmt.Printf("Received task: %v\n", task)
+
+		// Simulate processing
+		pairs := []mr.KeyValue{
+			{Key: "hello", Value: "1"},
+			{Key: "world", Value: "1"},
+		}
+
+		result := mr.MapResult{
+			TaskID: task.TaskID,
+			Pairs:  pairs,
+		}
+
+		// Report back:
+		err = client.Call("Master.ReportMapResult", result, &struct{}{})
+		if err != nil {
+			log.Fatal(err)
+		}
+
+		fmt.Println("Result sent back to master")
 	}
-
-	// Simulate map work:
-    result := mr.MapResult{TaskID: task.TaskID}
-    // e.g., read file, emit key/value pairs
-    result.Pairs = append(result.Pairs, mr.KeyValue{Key: "example", Value: "1"})
-
-    // Report back:
-    err = client.Call("Master.ReportMapResult", result, &struct{}{})
-    if err != nil {
-        log.Fatal(err)
-    }
 }
