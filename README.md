@@ -1,1 +1,1 @@
-# distributed-systems-learn
+# learn-distributed-systems
