@@ -13,9 +13,18 @@ import (
 // It maintains a thread-safe queue of map tasks and tracks the next task to be assigned.
 // The mutex ensures concurrent access safety when multiple workers request tasks.
 type Master struct {
-	mu sync.Mutex
-	tasks []mr.MapTask
-	nextTask int
+	mu            sync.Mutex
+	tasks         []mr.MapTask
+	nextTask      int
+	invertedIndex map[string]map[string]struct{}
+}
+
+func NewMaster() *Master {
+	return &Master{
+		tasks:         []mr.MapTask{},
+		nextTask:      0,
+		invertedIndex: make(map[string]map[string]struct{}),
+	}
 }
 
 // Task Assignment RPC
@@ -27,7 +36,7 @@ func (m *Master) RequestMapTask(_ struct{}, reply *mr.MapTask) error {
 
 	// check if next task is out of bounds
 	if m.nextTask >= len(m.tasks) {
-		reply.TaskID = -1 	// no more work
+		reply.TaskID = -1 // no more work
 		return nil
 	}
 
@@ -40,6 +49,18 @@ func (m *Master) RequestMapTask(_ struct{}, reply *mr.MapTask) error {
 
 func (m *Master) ReportMapResult(res mr.MapResult, _ *struct{}) error {
 	fmt.Printf("Master received result for task %d with %d pairs\n", res.TaskID, len(res.Pairs))
+
+	for _, kv := range res.Pairs {
+		word := kv.Key
+		filename := kv.Value
+
+		if m.invertedIndex[word] == nil {
+			m.invertedIndex[word] = make(map[string]struct{})
+		}
+		m.invertedIndex[word][filename] = struct{}{}
+	}
+
+	fmt.Printf("InvertedIndex: %v\n", m.invertedIndex)
 	return nil
 }
 
@@ -53,21 +74,20 @@ func (m *Master) Run() {
 
 	fmt.Println("Master is listening on port 1234")
 	for {
-        conn, err := l.Accept()
-        if err != nil {
-            continue
-        }
-        go rpc.ServeConn(conn)
-    }
+		conn, err := l.Accept()
+		if err != nil {
+			continue
+		}
+		go rpc.ServeConn(conn)
+	}
 }
 
 func main() {
-    m := &Master{
-        tasks: []mr.MapTask{
-            {TaskID: 0, Filename: "input/input1.txt"},
-            {TaskID: 1, Filename: "input/input2.txt"},
-			{TaskID: 2, Filename: "input/input3.txt"},
-        },
-    }
-    m.Run()
+	m := NewMaster()
+	m.tasks = []mr.MapTask{
+		{TaskID: 0, Filename: "input/input1.txt"},
+		{TaskID: 1, Filename: "input/input2.txt"},
+		{TaskID: 2, Filename: "input/input3.txt"},
+	}
+	m.Run()
 }
