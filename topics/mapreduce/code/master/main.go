@@ -8,13 +8,12 @@ import (
 	"net"
 	"net/rpc"
 	"os"
+	"path/filepath"
 	"sort"
 	"sync"
 )
 
 // Master represents the coordinator in a MapReduce system that manages task distribution.
-// It maintains a thread-safe queue of map tasks and tracks the next task to be assigned.
-// The mutex ensures concurrent access safety when multiple workers request tasks.
 type Master struct {
 	mu             sync.Mutex
 	tasks          []mr.MapTask
@@ -126,12 +125,41 @@ func (m *Master) Run() {
 	}
 }
 
+func discoverFiles(inputDir string) ([]mr.MapTask, error) {
+	entries, err := os.ReadDir(inputDir)
+	if err != nil {
+		return nil, err
+	}
+
+	var tasks []mr.MapTask
+	taskID := 0
+	for _, entry := range entries {
+		
+		// skip if isDir
+		// TODO: implement recursive task assignment for directories also
+		if entry.IsDir() {
+			continue
+		}
+
+		// if file, assign it as a task
+		path := filepath.Join(inputDir, entry.Name())
+		tasks = append(tasks, mr.MapTask{
+			TaskID: taskID,
+			Filename: path,
+		})
+		taskID++
+	}
+
+	return tasks, nil
+}
+
 func main() {
 	m := NewMaster()
-	m.tasks = []mr.MapTask{
-		{TaskID: 0, Filename: "input/input1.txt"},
-		{TaskID: 1, Filename: "input/input2.txt"},
-		{TaskID: 2, Filename: "input/input3.txt"},
+
+	var err error
+	m.tasks, err = discoverFiles("input")
+	if err != nil {
+		log.Fatal(err)
 	}
 	m.Run()
 }
