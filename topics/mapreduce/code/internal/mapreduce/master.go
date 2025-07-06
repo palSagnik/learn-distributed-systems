@@ -1,11 +1,9 @@
-package main
+package mapreduce
 
 import (
 	"encoding/json"
 	"fmt"
-	"hash/fnv"
 	"log"
-	"mapreduce/mr"
 	"net"
 	"net/rpc"
 	"os"
@@ -20,7 +18,7 @@ const nReducers = 5
 // Master represents the coordinator in a MapReduce system that manages task distribution.
 type Master struct {
 	mu             sync.Mutex
-	tasks          []mr.MapTask
+	tasks          []MapTask
 	completedTasks map[int]bool
 	nextTask       int
 	invertedIndex  map[string]map[string]struct{}
@@ -29,7 +27,7 @@ type Master struct {
 
 func NewMaster() *Master {
 	return &Master{
-		tasks:         []mr.MapTask{},
+		tasks:         []MapTask{},
 		completedTasks: make(map[int]bool),
 		nextTask:      0,
 		invertedIndex: make(map[string]map[string]struct{}),
@@ -40,7 +38,7 @@ func NewMaster() *Master {
 // Task Assignment RPC
 // passing an empty struct to fulfill net/rpc method signature
 // func (t *T) MethodName(args ArgsType, reply *ReplyType) error
-func (m *Master) RequestMapTask(_ struct{}, reply *mr.MapTask) error {
+func (m *Master) RequestMapTask(_ struct{}, reply *MapTask) error {
 	m.mu.Lock()
 	defer m.mu.Unlock()
 
@@ -57,7 +55,7 @@ func (m *Master) RequestMapTask(_ struct{}, reply *mr.MapTask) error {
 	return nil
 }
 
-func (m *Master) ReportMapResult(res mr.MapResult, _ *struct{}) error {
+func (m *Master) ReportMapResult(res MapResult, _ *struct{}) error {
 	fmt.Printf("Master received result for task %d with %d pairs\n", res.TaskID, len(res.Pairs))
 
 	m.mu.Lock()
@@ -88,9 +86,9 @@ func (m *Master) ReportMapResult(res mr.MapResult, _ *struct{}) error {
 		}
 
 		// allocation of tasks to reducers
-		var reduceTasks []mr.ReduceTask
+		var reduceTasks []ReduceTask
 		for i := 0; i < nReducers; i++ {
-			reduceTask := mr.ReduceTask{
+			reduceTask := ReduceTask{
 				PartitionID: i,
 				Data: partitions[i],
 			}
@@ -102,7 +100,7 @@ func (m *Master) ReportMapResult(res mr.MapResult, _ *struct{}) error {
 		var wg sync.WaitGroup
 		for _, task := range reduceTasks {
 			wg.Add(1)
-			go func(t mr.ReduceTask) {
+			go func(t ReduceTask) {
 				defer wg.Done()
 				reduceWorker(t)
 			}(task)
@@ -123,7 +121,7 @@ func (m *Master) ReportMapResult(res mr.MapResult, _ *struct{}) error {
 }
 
 // Reduce worker task
-func reduceWorker(task mr.ReduceTask) {
+func reduceWorker(task ReduceTask) {
 	output := make(map[string][]string)
 
 	for word, files := range task.Data {
@@ -181,7 +179,7 @@ func (m *Master) writeInvertedIndex() {
 	}
 
 	// writing to index
-	file, err := os.Create("index.json")
+	file, err := os.Create("output/index.json")
 	if err != nil {
 		log.Fatalf("Failed to create index.json: %v", err)
 	}
@@ -212,7 +210,6 @@ func cleanupReduceFiles() error {
     return nil
 }
 
-
 func (m *Master) allTasksCompleted() bool {
 	return len(m.completedTasks) == len(m.tasks)
 }
@@ -235,48 +232,8 @@ func (m *Master) Run() {
 	}
 }
 
-func discoverFiles(inputDir string) ([]mr.MapTask, error) {
-	entries, err := os.ReadDir(inputDir)
-	if err != nil {
-		return nil, err
-	}
-
-	var tasks []mr.MapTask
-	taskID := 0
-	for _, entry := range entries {
-		
-		// skip if isDir
-		// TODO: implement recursive task assignment for directories also
-		if entry.IsDir() {
-			continue
-		}
-
-		// if file, assign it as a task
-		path := filepath.Join(inputDir, entry.Name())
-		tasks = append(tasks, mr.MapTask{
-			TaskID: taskID,
-			Filename: path,
-		})
-		taskID++
-	}
-
-	return tasks, nil
-}
-
-func main() {
-	m := NewMaster()
-
+func (m *Master) LoadTasks(inputDir string) error {
 	var err error
-	m.tasks, err = discoverFiles("input")
-	if err != nil {
-		log.Fatal(err)
-	}
-	m.Run()
-}
-
-
-func hash(s string) uint32 {
-	h := fnv.New32a()
-    h.Write([]byte(s))
-    return h.Sum32()
+	m.tasks, err = discoverFiles(inputDir)
+	return err
 } 
