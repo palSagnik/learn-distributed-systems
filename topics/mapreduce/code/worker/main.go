@@ -35,6 +35,8 @@ func processingTask(task *mr.MapTask) mr.MapResult {
 	return result
 }
 
+
+
 func main() {
 	client, err := rpc.Dial("tcp", "localhost:1234")
 	if err != nil {

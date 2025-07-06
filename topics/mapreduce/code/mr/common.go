@@ -18,3 +18,8 @@ type KeyValue struct {
 	Key   string
 	Value string
 }
+
+type ReduceTask struct {
+	PartitionID int
+	Data map[string][]string
+}
