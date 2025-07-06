@@ -1,4 +1,4 @@
-package mr
+package mapreduce
 
 // defining a map task
 // MapTask defines a single Map Job
@@ -22,4 +22,4 @@ type KeyValue struct {
 type ReduceTask struct {
 	PartitionID int
 	Data map[string][]string
-}
+} 
