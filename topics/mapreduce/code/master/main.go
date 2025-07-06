@@ -98,6 +98,7 @@ func (m *Master) ReportMapResult(res mr.MapResult, _ *struct{}) error {
 			reduceTasks = append(reduceTasks, reduceTask)
 		}
 
+		fmt.Println("work assigned to reducers")
 		var wg sync.WaitGroup
 		for _, task := range reduceTasks {
 			wg.Add(1)
@@ -107,6 +108,15 @@ func (m *Master) ReportMapResult(res mr.MapResult, _ *struct{}) error {
 			}(task)
 		}
 		wg.Wait()
+	}
+
+	fmt.Println("writing to index.json and cleaning up")
+	// write to index
+	m.writeInvertedIndex()
+
+	// cleanup
+	if err := cleanupReduceFiles(); err != nil {
+		return  err
 	}
 
 	return nil
@@ -149,29 +159,59 @@ func reduceWorker(task mr.ReduceTask) {
 }
 
 func (m *Master) writeInvertedIndex() {
-	outFile, err := os.Create("index.json")
+	files, err := filepath.Glob("part-reduce-*.json")
 	if err != nil {
-		log.Fatalf("Failed to create output file: %v", err)
+		log.Fatalf("Failed to glob reduce-worker files: %v", err)
 	}
-	defer outFile.Close()
+	finalIndex := make(map[string][]string)
 
-	flatIndex := make(map[string][]string)
-	for word, fileset := range m.invertedIndex {
-		for file := range fileset {
-			flatIndex[word] = append(flatIndex[word], file)
+	for _, fname := range files {
+		f, err := os.Open(fname)
+		if err != nil {
+			log.Fatalf("Failed to open file %s: %v", fname, err)
 		}
-		sort.Strings(flatIndex[word])
+		defer f.Close()
+
+		var partial map[string][]string
+		json.NewDecoder(f).Decode(&partial)
+
+		for word, files := range partial {
+			finalIndex[word] = files
+		}
 	}
 
-	encoder := json.NewEncoder(outFile)
-	encoder.SetIndent("", "  ")
-    if err := encoder.Encode(flatIndex); err != nil {
-        log.Fatalf("Failed to write JSON: %v", err)
+	// writing to index
+	file, err := os.Create("index.json")
+	if err != nil {
+		log.Fatalf("Failed to create index.json: %v", err)
+	}
+
+	encode := json.NewEncoder(file)
+	encode.SetIndent("", " ")
+	if err := encode.Encode(finalIndex); err != nil {
+		log.Fatal("Failed to write to index.json")
+	}
+}
+
+// clean-up
+func cleanupReduceFiles() error {
+    files, err := filepath.Glob("part-reduce-*.json")
+    if err != nil {
+        return fmt.Errorf("glob failed: %v", err)
     }
 
-    fmt.Println("Inverted index written to index.json")
+    for _, file := range files {
+        err := os.Remove(file)
+        if err != nil {
+            log.Printf("Failed to delete %s: %v", file, err)
+        } else {
+            fmt.Printf("Deleted: %s\n", file)
+        }
+    }
 
+    return nil
 }
+
 
 func (m *Master) allTasksCompleted() bool {
 	return len(m.completedTasks) == len(m.tasks)
