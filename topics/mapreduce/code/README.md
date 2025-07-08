@@ -29,14 +29,6 @@ code/
 
 ## Usage
 
-### Build
-
-```bash
-# Build master
-cd cmd/master && go build
-
-# Build worker
-cd cmd/worker && go build
 ```
 
 ### Run
