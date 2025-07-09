@@ -186,9 +186,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "a": [
-  "input/input1.txt",
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -281,7 +278,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "able": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -335,8 +331,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "about": [
-  "input/input1.txt",
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -347,7 +341,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "above": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -422,12 +415,10 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "absorb": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-sherlock_holmes.txt"
  ],
  "absorbed": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-sherlock_holmes.txt",
@@ -485,7 +476,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "abused": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-huckleberry_finn.txt",
@@ -1481,7 +1471,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "advised": [
-  "input/input1.txt",
   "input/pg-sherlock_holmes.txt"
  ],
  "adviser": [
@@ -1693,7 +1682,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "again": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -1741,7 +1729,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "agency": [
-  "input/input1.txt",
   "input/pg-sherlock_holmes.txt"
  ],
  "agent": [
@@ -2175,9 +2162,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "all": [
-  "input/input1.txt",
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -2309,14 +2293,12 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "almighty": [
-  "input/input3.txt",
   "input/pg-frankenstein.txt"
  ],
  "almonds": [
   "input/pg-metamorphosis.txt"
  ],
  "almost": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -2338,7 +2320,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "alone": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -2373,9 +2354,6 @@
  ],
  "alpha": [
   "input/pg-sherlock_holmes.txt"
- ],
- "alphabet": [
-  "input/input1.txt"
  ],
  "alphonse": [
   "input/pg-frankenstein.txt"
@@ -2470,7 +2448,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "although": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -2495,7 +2472,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "always": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -2509,7 +2485,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "am": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -2595,9 +2570,6 @@
   "input/pg-huckleberry_finn.txt",
   "input/pg-tom_sawyer.txt"
  ],
- "ambushed": [
-  "input/input1.txt"
- ],
  "ameliorate": [
   "input/pg-frankenstein.txt"
  ],
@@ -2669,7 +2641,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "among": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -2768,9 +2739,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "an": [
-  "input/input1.txt",
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -2842,9 +2810,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "and": [
-  "input/input1.txt",
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -3209,7 +3174,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "any": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -3232,7 +3196,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "anyone": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -3741,7 +3704,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "arches": [
-  "input/input2.txt",
   "input/pg-metamorphosis.txt"
  ],
  "archibald": [
@@ -3804,8 +3766,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "are": [
-  "input/input1.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -3895,7 +3855,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "arm": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -3938,7 +3897,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "armour": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-grimm.txt",
   "input/pg-metamorphosis.txt",
@@ -3980,8 +3938,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "around": [
-  "input/input1.txt",
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -4160,7 +4116,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "artist": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-sherlock_holmes.txt",
@@ -4192,8 +4147,6 @@
   "input/pg-frankenstein.txt"
  ],
  "as": [
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -4656,9 +4609,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "at": [
-  "input/input1.txt",
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -5263,7 +5213,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "away": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -5420,8 +5369,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "back": [
-  "input/input1.txt",
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -5482,8 +5429,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "bad": [
-  "input/input1.txt",
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -6141,9 +6086,6 @@
   "input/pg-being_ernest.txt"
  ],
  "be": [
-  "input/input1.txt",
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -6234,7 +6176,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "bears": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-sherlock_holmes.txt"
@@ -6355,8 +6296,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "because": [
-  "input/input1.txt",
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -6383,7 +6322,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "become": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -6413,7 +6351,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "bed": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -6436,7 +6373,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "bedding": [
-  "input/input2.txt",
   "input/pg-metamorphosis.txt"
  ],
  "bedewed": [
@@ -6515,7 +6451,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "been": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -6575,7 +6510,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "before": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -6607,7 +6541,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "began": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -6739,7 +6672,6 @@
   "input/pg-metamorphosis.txt"
  ],
  "behind": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -6869,7 +6801,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "belly": [
-  "input/input2.txt",
   "input/pg-grimm.txt",
   "input/pg-huckleberry_finn.txt",
   "input/pg-metamorphosis.txt"
@@ -6909,7 +6840,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "beloved": [
-  "input/input3.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
   "input/pg-sherlock_holmes.txt"
@@ -6928,7 +6858,6 @@
   "input/pg-frankenstein.txt"
  ],
  "belt": [
-  "input/input1.txt",
   "input/pg-huckleberry_finn.txt",
   "input/pg-sherlock_holmes.txt",
   "input/pg-tom_sawyer.txt"
@@ -7239,7 +7168,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "between": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -7342,7 +7270,6 @@
   "input/pg-grimm.txt"
  ],
  "big": [
-  "input/input1.txt",
   "input/pg-grimm.txt",
   "input/pg-huckleberry_finn.txt",
   "input/pg-metamorphosis.txt",
@@ -7515,7 +7442,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "bit": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-grimm.txt",
   "input/pg-huckleberry_finn.txt",
@@ -7854,7 +7780,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "blind": [
-  "input/input1.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -7896,7 +7821,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "bliss": [
-  "input/input3.txt",
   "input/pg-frankenstein.txt",
   "input/pg-tom_sawyer.txt"
  ],
@@ -8171,7 +8095,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "boa": [
-  "input/input2.txt",
   "input/pg-metamorphosis.txt",
   "input/pg-sherlock_holmes.txt"
  ],
@@ -8428,9 +8351,6 @@
  ],
  "bookcase": [
   "input/pg-being_ernest.txt"
- ],
- "bookmarksgrove": [
-  "input/input1.txt"
  ],
  "books": [
   "input/pg-being_ernest.txt",
@@ -9158,7 +9078,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "breath": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -9636,7 +9555,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "brown": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-grimm.txt",
   "input/pg-huckleberry_finn.txt",
@@ -10164,7 +10082,6 @@
   "input/pg-grimm.txt"
  ],
  "business": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -10222,9 +10139,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "but": [
-  "input/input1.txt",
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -10324,7 +10238,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "buzz": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-grimm.txt",
   "input/pg-sherlock_holmes.txt",
@@ -10339,9 +10252,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "by": [
-  "input/input1.txt",
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -10649,7 +10559,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "came": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -10703,7 +10612,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "can": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -11015,7 +10923,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "career": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-metamorphosis.txt",
@@ -12112,7 +12019,6 @@
   "input/pg-metamorphosis.txt"
  ],
  "charm": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -12310,7 +12216,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "cheek": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -12794,7 +12699,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "chosen": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -13597,7 +13501,6 @@
   "input/pg-grimm.txt"
  ],
  "close": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -13877,7 +13780,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "coast": [
-  "input/input1.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -14127,7 +14029,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "collection": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -14410,9 +14311,6 @@
   "input/pg-grimm.txt",
   "input/pg-sherlock_holmes.txt"
  ],
- "commas": [
-  "input/input1.txt"
- ],
  "comme": [
   "input/pg-dorian_gray.txt"
  ],
@@ -14636,7 +14534,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "compared": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -15055,9 +14952,6 @@
   "input/pg-frankenstein.txt",
   "input/pg-sherlock_holmes.txt"
  ],
- "conceptions": [
-  "input/input3.txt"
- ],
  "concern": [
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -15474,7 +15368,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "connections": [
-  "input/input2.txt",
   "input/pg-metamorphosis.txt"
  ],
  "conned": [
@@ -15716,9 +15609,6 @@
  "consoling": [
   "input/pg-tom_sawyer.txt"
  ],
- "consonantia": [
-  "input/input1.txt"
- ],
  "consorted": [
   "input/pg-dorian_gray.txt"
  ],
@@ -15872,7 +15762,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "contact": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -16033,7 +15922,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "continued": [
-  "input/input1.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -16146,7 +16034,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "control": [
-  "input/input1.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -16271,7 +16158,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "convince": [
-  "input/input1.txt",
   "input/pg-huckleberry_finn.txt",
   "input/pg-sherlock_holmes.txt"
  ],
@@ -16432,7 +16318,6 @@
   "input/pg-grimm.txt"
  ],
  "copy": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -16751,9 +16636,6 @@
   "input/pg-metamorphosis.txt"
  ],
  "could": [
-  "input/input1.txt",
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -16764,7 +16646,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "couldn": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-huckleberry_finn.txt",
@@ -16855,13 +16736,11 @@
   "input/pg-tom_sawyer.txt"
  ],
  "countless": [
-  "input/input3.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
   "input/pg-metamorphosis.txt"
  ],
  "countries": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -16872,7 +16751,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "country": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -17024,7 +16902,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "cover": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-grimm.txt",
   "input/pg-huckleberry_finn.txt",
@@ -17033,7 +16910,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "covered": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -17303,7 +17179,6 @@
   "input/pg-frankenstein.txt"
  ],
  "created": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -18128,7 +18003,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "curse": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -18262,7 +18136,6 @@
   "input/pg-frankenstein.txt"
  ],
  "cut": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -18693,7 +18566,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "darkness": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -18856,8 +18728,6 @@
   "input/pg-metamorphosis.txt"
  ],
  "day": [
-  "input/input1.txt",
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -18986,7 +18856,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "dear": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -19180,7 +19049,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "decided": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -20122,7 +19990,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "describe": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-sherlock_holmes.txt",
@@ -20605,9 +20472,6 @@
  "deviltry": [
   "input/pg-huckleberry_finn.txt"
  ],
- "devious": [
-  "input/input1.txt"
- ],
  "devised": [
   "input/pg-sherlock_holmes.txt",
   "input/pg-tom_sawyer.txt"
@@ -20776,7 +20640,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "didn": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-huckleberry_finn.txt",
@@ -20826,7 +20689,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "different": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -22166,7 +22028,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "divided": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-grimm.txt",
   "input/pg-huckleberry_finn.txt",
@@ -22227,8 +22088,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "do": [
-  "input/input1.txt",
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -22366,7 +22225,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "doing": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -22420,7 +22278,6 @@
   "input/pg-metamorphosis.txt"
  ],
  "domed": [
-  "input/input2.txt",
   "input/pg-metamorphosis.txt"
  ],
  "domes": [
@@ -22734,7 +22591,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "down": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -22845,7 +22701,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "dragged": [
-  "input/input1.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -22947,7 +22802,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "drawing": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -23013,7 +22867,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "dream": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -23048,7 +22901,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "dreams": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -23315,7 +23167,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "drops": [
-  "input/input2.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
   "input/pg-huckleberry_finn.txt",
@@ -23411,7 +23262,6 @@
   "input/pg-grimm.txt"
  ],
  "drunk": [
-  "input/input1.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -23508,9 +23358,6 @@
  "dudding": [
   "input/pg-grimm.txt"
  ],
- "duden": [
-  "input/input1.txt"
- ],
  "dudley": [
   "input/pg-dorian_gray.txt",
   "input/pg-huckleberry_finn.txt"
@@ -23552,7 +23399,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "dull": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -23733,7 +23579,6 @@
   "input/pg-grimm.txt"
  ],
  "dwell": [
-  "input/input3.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
   "input/pg-sherlock_holmes.txt"
@@ -23903,7 +23748,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "earth": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -24295,7 +24139,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "effort": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -25370,7 +25213,6 @@
   "input/pg-frankenstein.txt"
  ],
  "enjoy": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -25616,7 +25458,6 @@
   "input/pg-frankenstein.txt"
  ],
  "entire": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -26089,7 +25930,6 @@
   "input/pg-frankenstein.txt"
  ],
  "eternity": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-tom_sawyer.txt"
@@ -26149,7 +25989,6 @@
   "input/pg-being_ernest.txt"
  ],
  "even": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -26254,7 +26093,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "everything": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -26775,7 +26613,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "existence": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -27160,7 +26997,6 @@
   "input/pg-being_ernest.txt"
  ],
  "exquisite": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-sherlock_holmes.txt"
@@ -27342,8 +27178,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "eyes": [
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -27742,8 +27576,6 @@
   "input/pg-grimm.txt"
  ],
  "familiar": [
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -27868,7 +27700,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "far": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -28366,8 +28197,6 @@
   "input/pg-metamorphosis.txt"
  ],
  "feel": [
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -28492,7 +28321,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "felt": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -28675,8 +28503,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "few": [
-  "input/input1.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -29170,7 +28996,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "first": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -29266,7 +29091,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "fitted": [
-  "input/input2.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
   "input/pg-metamorphosis.txt",
@@ -29598,7 +29422,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "flies": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-grimm.txt",
   "input/pg-huckleberry_finn.txt",
@@ -29696,7 +29519,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "floats": [
-  "input/input3.txt",
   "input/pg-huckleberry_finn.txt"
  ],
  "flock": [
@@ -29785,7 +29607,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "floundering": [
-  "input/input2.txt",
   "input/pg-frankenstein.txt",
   "input/pg-metamorphosis.txt",
   "input/pg-tom_sawyer.txt"
@@ -29860,7 +29681,6 @@
   "input/pg-metamorphosis.txt"
  ],
  "flows": [
-  "input/input1.txt",
   "input/pg-frankenstein.txt"
  ],
  "fluctuate": [
@@ -29941,7 +29761,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "fly": [
-  "input/input1.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -30028,7 +29847,6 @@
   "input/pg-metamorphosis.txt"
  ],
  "foliage": [
-  "input/input3.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
   "input/pg-sherlock_holmes.txt",
@@ -30139,7 +29957,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "food": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -30271,8 +30088,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "for": [
-  "input/input1.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -30489,7 +30304,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "forget": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -30585,7 +30399,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "form": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -30626,7 +30439,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "formed": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -30662,7 +30474,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "forms": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -30821,7 +30632,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "found": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -30870,7 +30680,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "four": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -30951,7 +30760,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "frame": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -31223,7 +31031,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "friend": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -31239,7 +31046,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "friendly": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-grimm.txt",
   "input/pg-huckleberry_finn.txt",
@@ -31377,8 +31183,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "from": [
-  "input/input1.txt",
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -31538,7 +31342,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "full": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -31649,7 +31452,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "fur": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-grimm.txt",
   "input/pg-huckleberry_finn.txt",
@@ -32490,7 +32292,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "get": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -32598,7 +32399,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "gilded": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -32889,9 +32689,6 @@
   "input/pg-sherlock_holmes.txt",
   "input/pg-tom_sawyer.txt"
  ],
- "gleams": [
-  "input/input3.txt"
- ],
  "glee": [
   "input/pg-grimm.txt"
  ],
@@ -33116,7 +32913,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "go": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -33158,8 +32954,6 @@
   "input/pg-grimm.txt"
  ],
  "god": [
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -33541,7 +33335,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "grammar": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt"
  ],
  "grand": [
@@ -33660,7 +33453,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "grass": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -33828,7 +33620,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "greater": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -33932,7 +33723,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "gregor": [
-  "input/input2.txt",
   "input/pg-metamorphosis.txt"
  ],
  "gregory": [
@@ -34247,7 +34037,6 @@
   "input/pg-frankenstein.txt"
  ],
  "grow": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -34664,8 +34453,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "had": [
-  "input/input1.txt",
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -35092,7 +34879,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "happened": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -35148,7 +34934,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "happy": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -35174,7 +34959,6 @@
   "input/pg-being_ernest.txt"
  ],
  "hard": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -35212,7 +34996,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "hardly": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -35386,8 +35169,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "has": [
-  "input/input1.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -35401,7 +35182,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "hasn": [
-  "input/input1.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-huckleberry_finn.txt",
   "input/pg-tom_sawyer.txt"
@@ -35447,7 +35227,6 @@
   "input/pg-grimm.txt"
  ],
  "hat": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-grimm.txt",
@@ -35561,8 +35340,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "have": [
-  "input/input1.txt",
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -35652,7 +35429,6 @@
   "input/pg-grimm.txt"
  ],
  "he": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -35663,7 +35439,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "head": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -35697,7 +35472,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "headline": [
-  "input/input1.txt",
   "input/pg-huckleberry_finn.txt"
  ],
  "headquarters": [
@@ -35765,7 +35539,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "hear": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -35776,7 +35549,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "heard": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -35821,7 +35593,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "heart": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -35925,7 +35696,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "heaven": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -35978,7 +35748,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "heavy": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -36096,7 +35865,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "hell": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-huckleberry_finn.txt",
@@ -36164,7 +35932,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "helplessly": [
-  "input/input2.txt",
   "input/pg-metamorphosis.txt",
   "input/pg-tom_sawyer.txt"
  ],
@@ -36219,8 +35986,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "her": [
-  "input/input1.txt",
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -36341,7 +36106,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "herself": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -36562,7 +36326,6 @@
   "input/pg-grimm.txt"
  ],
  "hills": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -36590,7 +36353,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "him": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -36601,7 +36363,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "himself": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -36667,8 +36428,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "his": [
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -36752,7 +36511,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "hitting": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-metamorphosis.txt"
  ],
@@ -36988,7 +36746,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "home": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -37025,9 +36782,6 @@
  ],
  "homesteads": [
   "input/pg-sherlock_holmes.txt"
- ],
- "hometown": [
-  "input/input1.txt"
  ],
  "homeward": [
   "input/pg-frankenstein.txt",
@@ -37267,7 +37021,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "horrible": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -37473,7 +37226,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "housed": [
-  "input/input2.txt",
   "input/pg-metamorphosis.txt"
  ],
  "household": [
@@ -37541,7 +37293,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "how": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -37555,8 +37306,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "however": [
-  "input/input1.txt",
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -37696,7 +37445,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "human": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -37811,7 +37559,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "hundred": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -37838,7 +37585,6 @@
   "input/pg-frankenstein.txt"
  ],
  "hung": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -38115,8 +37861,6 @@
   "input/pg-frankenstein.txt"
  ],
  "i": [
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -38266,8 +38010,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "if": [
-  "input/input1.txt",
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -38387,7 +38129,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "illustrated": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-metamorphosis.txt",
@@ -38414,7 +38155,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "image": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -38678,7 +38418,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "impenetrable": [
-  "input/input3.txt",
   "input/pg-frankenstein.txt"
  ],
  "imperative": [
@@ -38867,7 +38606,6 @@
   "input/pg-frankenstein.txt"
  ],
  "impress": [
-  "input/input3.txt",
   "input/pg-frankenstein.txt"
  ],
  "impressed": [
@@ -38986,9 +38724,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "in": [
-  "input/input1.txt",
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -39053,7 +38788,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "incapable": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-metamorphosis.txt",
@@ -39384,9 +39118,6 @@
   "input/pg-sherlock_holmes.txt",
   "input/pg-tom_sawyer.txt"
  ],
- "indescribable": [
-  "input/input3.txt"
- ],
  "indestructible": [
   "input/pg-tom_sawyer.txt"
  ],
@@ -39696,7 +39427,6 @@
   "input/pg-frankenstein.txt"
  ],
  "infinite": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-sherlock_holmes.txt"
@@ -39882,7 +39612,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "initial": [
-  "input/input1.txt",
   "input/pg-huckleberry_finn.txt"
  ],
  "initials": [
@@ -39967,7 +39696,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "inner": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-metamorphosis.txt",
@@ -40113,7 +39841,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "insects": [
-  "input/input3.txt",
   "input/pg-grimm.txt",
   "input/pg-sherlock_holmes.txt"
  ],
@@ -40154,9 +39881,6 @@
  ],
  "insides": [
   "input/pg-huckleberry_finn.txt"
- ],
- "insidious": [
-  "input/input1.txt"
  ],
  "insight": [
   "input/pg-frankenstein.txt",
@@ -40745,9 +40469,6 @@
   "input/pg-frankenstein.txt"
  ],
  "into": [
-  "input/input1.txt",
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -41063,9 +40784,6 @@
  "iota": [
   "input/pg-sherlock_holmes.txt"
  ],
- "ipsum": [
-  "input/input1.txt"
- ],
  "ireland": [
   "input/pg-frankenstein.txt"
  ],
@@ -41116,7 +40834,6 @@
   "input/pg-frankenstein.txt"
  ],
  "irregular": [
-  "input/input2.txt",
   "input/pg-frankenstein.txt",
   "input/pg-metamorphosis.txt"
  ],
@@ -41203,9 +40920,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "is": [
-  "input/input1.txt",
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -41287,9 +41001,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "it": [
-  "input/input1.txt",
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -41307,14 +41018,10 @@
  "italians": [
   "input/pg-frankenstein.txt"
  ],
- "italic": [
-  "input/input1.txt"
- ],
  "italy": [
   "input/pg-frankenstein.txt"
  ],
  "itch": [
-  "input/input2.txt",
   "input/pg-huckleberry_finn.txt",
   "input/pg-metamorphosis.txt"
  ],
@@ -41337,9 +41044,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "its": [
-  "input/input1.txt",
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -42789,7 +42493,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "know": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -43023,7 +42726,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "lady": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -43215,7 +42917,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "lane": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-huckleberry_finn.txt",
@@ -43237,7 +42938,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "language": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -43329,7 +43029,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "large": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -43392,7 +43091,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "last": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -43630,7 +43328,6 @@
   "input/pg-being_ernest.txt"
  ],
  "lay": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -43898,7 +43595,6 @@
   "input/pg-grimm.txt"
  ],
  "leave": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -43992,7 +43688,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "left": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -44062,7 +43757,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "legs": [
-  "input/input2.txt",
   "input/pg-grimm.txt",
   "input/pg-huckleberry_finn.txt",
   "input/pg-metamorphosis.txt",
@@ -44427,7 +44121,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "lie": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -44467,7 +44160,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "life": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -44503,7 +44195,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "lifted": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -44601,8 +44292,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "like": [
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -44759,7 +44448,6 @@
   "input/pg-grimm.txt"
  ],
  "line": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -44927,7 +44615,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "listen": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -45029,9 +44716,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "little": [
-  "input/input1.txt",
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -45045,7 +44729,6 @@
   "input/pg-frankenstein.txt"
  ],
  "live": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -45109,7 +44792,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "living": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -45428,7 +45110,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "long": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -45438,9 +45119,6 @@
   "input/pg-sherlock_holmes.txt",
   "input/pg-tom_sawyer.txt"
  ],
- "longe": [
-  "input/input1.txt"
- ],
  "longed": [
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -45449,7 +45127,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "longer": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -45464,7 +45141,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "longing": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -45488,7 +45164,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "look": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -45499,7 +45174,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "looked": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -45604,9 +45278,6 @@
  "lordy": [
   "input/pg-huckleberry_finn.txt",
   "input/pg-tom_sawyer.txt"
- ],
- "lorem": [
-  "input/input1.txt"
  ],
  "lorgnette": [
   "input/pg-being_ernest.txt"
@@ -45747,7 +45418,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "love": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -45787,7 +45457,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "lovely": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -45839,7 +45508,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "lower": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -46187,8 +45855,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "made": [
-  "input/input1.txt",
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -46220,7 +45886,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "magazine": [
-  "input/input2.txt",
   "input/pg-metamorphosis.txt"
  ],
  "magazines": [
@@ -46440,7 +46105,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "making": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -46707,7 +46371,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "many": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -46848,7 +46511,6 @@
   "input/pg-frankenstein.txt"
  ],
  "marks": [
-  "input/input1.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-huckleberry_finn.txt",
@@ -47288,8 +46950,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "me": [
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -47868,7 +47528,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "mere": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-huckleberry_finn.txt",
@@ -47890,9 +47549,6 @@
  ],
  "merest": [
   "input/pg-sherlock_holmes.txt"
- ],
- "meridian": [
-  "input/input3.txt"
  ],
  "merit": [
   "input/pg-frankenstein.txt",
@@ -47964,7 +47620,6 @@
   "input/pg-being_ernest.txt"
  ],
  "met": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -48154,7 +47809,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "might": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -48193,7 +47847,6 @@
   "input/pg-frankenstein.txt"
  ],
  "mild": [
-  "input/input2.txt",
   "input/pg-frankenstein.txt",
   "input/pg-huckleberry_finn.txt",
   "input/pg-metamorphosis.txt"
@@ -48333,7 +47986,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "mine": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -48459,7 +48111,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "mirror": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-sherlock_holmes.txt"
@@ -48702,7 +48353,6 @@
   "input/pg-grimm.txt"
  ],
  "mistress": [
-  "input/input3.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
   "input/pg-sherlock_holmes.txt"
@@ -48905,8 +48555,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "moment": [
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -49219,7 +48867,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "more": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -49242,7 +48889,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "morning": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -49253,7 +48899,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "mornings": [
-  "input/input3.txt",
   "input/pg-grimm.txt",
   "input/pg-huckleberry_finn.txt",
   "input/pg-sherlock_holmes.txt",
@@ -49479,7 +49124,6 @@
   "input/pg-frankenstein.txt"
  ],
  "mountains": [
-  "input/input1.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
   "input/pg-huckleberry_finn.txt",
@@ -49554,7 +49198,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "mouth": [
-  "input/input1.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-grimm.txt",
   "input/pg-huckleberry_finn.txt",
@@ -49647,8 +49290,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "much": [
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -49685,7 +49326,6 @@
   "input/pg-being_ernest.txt"
  ],
  "muff": [
-  "input/input2.txt",
   "input/pg-metamorphosis.txt",
   "input/pg-sherlock_holmes.txt",
   "input/pg-tom_sawyer.txt"
@@ -49958,7 +49598,6 @@
   "input/pg-grimm.txt"
  ],
  "must": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -50033,7 +49672,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "my": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -50054,7 +49692,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "myself": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -50144,7 +49781,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "name": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -50155,7 +49791,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "named": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -50446,7 +50081,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "necessary": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -50559,7 +50193,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "neglect": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-frankenstein.txt"
  ],
@@ -50745,8 +50378,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "never": [
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -50875,7 +50506,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "nice": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-grimm.txt",
@@ -51034,7 +50664,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "no": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -51208,7 +50837,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "nonsense": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -51326,7 +50954,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "not": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -51383,7 +51010,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "nothing": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -51413,7 +51039,6 @@
   "input/pg-metamorphosis.txt"
  ],
  "noticed": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-grimm.txt",
   "input/pg-huckleberry_finn.txt",
@@ -51522,7 +51147,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "now": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -51684,7 +51308,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "o": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -52073,7 +51696,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "ocean": [
-  "input/input1.txt",
   "input/pg-frankenstein.txt",
   "input/pg-huckleberry_finn.txt",
   "input/pg-tom_sawyer.txt"
@@ -52132,9 +51754,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "of": [
-  "input/input1.txt",
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -52145,7 +51764,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "off": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -52262,7 +51880,6 @@
   "input/pg-frankenstein.txt"
  ],
  "often": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -52283,8 +51900,6 @@
   "input/pg-frankenstein.txt"
  ],
  "oh": [
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -52404,8 +52019,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "on": [
-  "input/input1.txt",
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -52435,8 +52048,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "one": [
-  "input/input1.txt",
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -52486,7 +52097,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "only": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -52506,7 +52116,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "onto": [
-  "input/input2.txt",
   "input/pg-huckleberry_finn.txt",
   "input/pg-metamorphosis.txt",
   "input/pg-sherlock_holmes.txt",
@@ -52723,7 +52332,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "or": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -52878,7 +52486,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "origin": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -53092,7 +52699,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "out": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -53270,7 +52876,6 @@
   "input/pg-grimm.txt"
  ],
  "over": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -53432,9 +53037,6 @@
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt"
  ],
- "overspreads": [
-  "input/input3.txt"
- ],
  "overstrung": [
   "input/pg-sherlock_holmes.txt"
  ],
@@ -53525,9 +53127,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "own": [
-  "input/input1.txt",
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -53578,9 +53177,6 @@
  "oxfordshire": [
   "input/pg-sherlock_holmes.txt"
  ],
- "oxmox": [
-  "input/input1.txt"
- ],
  "oxonian": [
   "input/pg-being_ernest.txt"
  ],
@@ -53629,7 +53225,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "packed": [
-  "input/input1.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -53719,7 +53314,6 @@
   "input/pg-grimm.txt"
  ],
  "pain": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -53943,7 +53537,6 @@
   "input/pg-frankenstein.txt"
  ],
  "pane": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-grimm.txt",
   "input/pg-metamorphosis.txt"
@@ -54041,7 +53634,6 @@
   "input/pg-frankenstein.txt"
  ],
  "paper": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -54081,9 +53673,6 @@
  "paradise": [
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt"
- ],
- "paradisematic": [
-  "input/input1.txt"
  ],
  "paradisiacal": [
   "input/pg-frankenstein.txt"
@@ -54261,9 +53850,6 @@
  "parody": [
   "input/pg-dorian_gray.txt"
  ],
- "parole": [
-  "input/input1.txt"
- ],
  "paroxysm": [
   "input/pg-frankenstein.txt"
  ],
@@ -54395,7 +53981,6 @@
   "input/pg-grimm.txt"
  ],
  "parts": [
-  "input/input1.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-huckleberry_finn.txt",
@@ -54811,7 +54396,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "peacefully": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-grimm.txt",
   "input/pg-metamorphosis.txt",
@@ -55122,7 +54706,6 @@
   "input/pg-frankenstein.txt"
  ],
  "people": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -56002,7 +55585,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "picture": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -56390,7 +55972,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "pitifully": [
-  "input/input2.txt",
   "input/pg-metamorphosis.txt"
  ],
  "pitifulness": [
@@ -56420,9 +56001,6 @@
   "input/pg-sherlock_holmes.txt",
   "input/pg-tom_sawyer.txt"
  ],
- "pityful": [
-  "input/input1.txt"
- ],
  "pitying": [
   "input/pg-huckleberry_finn.txt"
  ],
@@ -56436,7 +56014,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "place": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -56602,7 +56179,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "plants": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-tom_sawyer.txt"
@@ -57066,7 +56642,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "pointing": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -57429,7 +57004,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "position": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -57476,7 +57050,6 @@
   "input/pg-frankenstein.txt"
  ],
  "possession": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -57682,7 +57255,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "power": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -57691,7 +57263,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "powerful": [
-  "input/input1.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
   "input/pg-huckleberry_finn.txt",
@@ -58122,7 +57693,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "presence": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -58132,8 +57702,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "present": [
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -58974,7 +58542,6 @@
   "input/pg-frankenstein.txt"
  ],
  "projects": [
-  "input/input1.txt",
   "input/pg-frankenstein.txt"
  ],
  "proletariat": [
@@ -59134,7 +58701,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "proper": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -59927,7 +59493,6 @@
   "input/pg-grimm.txt"
  ],
  "put": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -60125,7 +59690,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "question": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -60251,7 +59815,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "quite": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -60488,7 +60051,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "rain": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -60544,7 +60106,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "raising": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -60600,7 +60161,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "ran": [
-  "input/input1.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -60939,7 +60499,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "reached": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -61019,7 +60578,6 @@
   "input/pg-metamorphosis.txt"
  ],
  "ready": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -61291,7 +60849,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "recently": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-metamorphosis.txt",
@@ -61882,9 +61439,6 @@
   "input/pg-being_ernest.txt",
   "input/pg-frankenstein.txt",
   "input/pg-sherlock_holmes.txt"
- ],
- "regelialia": [
-  "input/input1.txt"
  ],
  "regency": [
   "input/pg-sherlock_holmes.txt"
@@ -63242,7 +62796,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "rest": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -63401,9 +62954,6 @@
  "retchings": [
   "input/pg-tom_sawyer.txt"
  ],
- "rethoric": [
-  "input/input1.txt"
- ],
  "reticences": [
   "input/pg-dorian_gray.txt"
  ],
@@ -63475,7 +63025,6 @@
   "input/pg-frankenstein.txt"
  ],
  "return": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -63701,9 +63250,6 @@
  "rewriting": [
   "input/pg-dorian_gray.txt"
  ],
- "rewritten": [
-  "input/input1.txt"
- ],
  "rheims": [
   "input/pg-dorian_gray.txt"
  ],
@@ -63873,8 +63419,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "right": [
-  "input/input1.txt",
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -64082,7 +63626,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "river": [
-  "input/input1.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -64108,7 +63651,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "road": [
-  "input/input1.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -64169,7 +63711,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "roasted": [
-  "input/input1.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
   "input/pg-tom_sawyer.txt"
@@ -64344,7 +63885,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "rolled": [
-  "input/input2.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
   "input/pg-huckleberry_finn.txt",
@@ -64443,7 +63983,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "room": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -65090,7 +64629,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "s": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -65166,7 +64704,6 @@
   "input/pg-frankenstein.txt"
  ],
  "sad": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -65221,7 +64758,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "safe": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -65269,7 +64805,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "said": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -65362,7 +64897,6 @@
   "input/pg-metamorphosis.txt"
  ],
  "salesman": [
-  "input/input2.txt",
   "input/pg-metamorphosis.txt",
   "input/pg-sherlock_holmes.txt"
  ],
@@ -65445,11 +64979,9 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "samples": [
-  "input/input2.txt",
   "input/pg-metamorphosis.txt"
  ],
  "samsa": [
-  "input/input2.txt",
   "input/pg-metamorphosis.txt"
  ],
  "samuel": [
@@ -65462,9 +64994,6 @@
  ],
  "sanctified": [
   "input/pg-huckleberry_finn.txt"
- ],
- "sanctuary": [
-  "input/input3.txt"
  ],
  "sand": [
   "input/pg-grimm.txt",
@@ -65576,7 +65105,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "sat": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -66703,7 +66231,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "sections": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -66767,7 +66294,6 @@
   "input/pg-frankenstein.txt"
  ],
  "see": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -66829,7 +66355,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "seem": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -66840,7 +66365,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "seemed": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -67010,9 +66534,6 @@
  "seltzer": [
   "input/pg-dorian_gray.txt"
  ],
- "semantics": [
-  "input/input1.txt"
- ],
  "semblance": [
   "input/pg-frankenstein.txt"
  ],
@@ -67022,9 +66543,6 @@
  ],
  "semicircle": [
   "input/pg-sherlock_holmes.txt"
- ],
- "semikoli": [
-  "input/input1.txt"
  ],
  "senator": [
   "input/pg-tom_sawyer.txt"
@@ -67089,7 +66607,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "sense": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -67170,7 +66687,6 @@
   "input/pg-grimm.txt"
  ],
  "sentences": [
-  "input/input1.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt"
  ],
@@ -67218,7 +66734,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "separated": [
-  "input/input1.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -67265,7 +66780,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "serenity": [
-  "input/input3.txt",
   "input/pg-frankenstein.txt"
  ],
  "sereny": [
@@ -67440,7 +66954,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "seven": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -67859,7 +67372,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "she": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -68335,8 +67847,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "should": [
-  "input/input1.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -68454,7 +67964,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "showed": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -68619,7 +68128,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "shut": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -69141,7 +68649,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "single": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -69184,7 +68691,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "sink": [
-  "input/input3.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
   "input/pg-huckleberry_finn.txt",
@@ -69378,7 +68884,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "size": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-grimm.txt",
@@ -69568,9 +69073,6 @@
   "input/pg-huckleberry_finn.txt",
   "input/pg-sherlock_holmes.txt"
  ],
- "skyline": [
-  "input/input1.txt"
- ],
  "slab": [
   "input/pg-huckleberry_finn.txt",
   "input/pg-sherlock_holmes.txt"
@@ -69689,7 +69191,6 @@
   "input/pg-grimm.txt"
  ],
  "sleep": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -69719,7 +69220,6 @@
   "input/pg-metamorphosis.txt"
  ],
  "sleeping": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -69805,7 +69305,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "slide": [
-  "input/input2.txt",
   "input/pg-huckleberry_finn.txt",
   "input/pg-metamorphosis.txt",
   "input/pg-sherlock_holmes.txt"
@@ -69820,7 +69319,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "slight": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -69844,7 +69342,6 @@
   "input/pg-being_ernest.txt"
  ],
  "slightly": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-metamorphosis.txt",
   "input/pg-sherlock_holmes.txt",
@@ -70068,8 +69565,6 @@
   "input/pg-grimm.txt"
  ],
  "small": [
-  "input/input1.txt",
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -70558,9 +70053,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "so": [
-  "input/input1.txt",
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -70955,7 +70447,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "something": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -71211,7 +70702,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "soul": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -71224,7 +70714,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "souls": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-huckleberry_finn.txt",
@@ -71926,7 +71415,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "splendour": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -72065,7 +71553,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "spot": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -72129,7 +71616,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "spread": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -72152,7 +71638,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "spring": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -72537,7 +72022,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "stalks": [
-  "input/input3.txt",
   "input/pg-huckleberry_finn.txt"
  ],
  "stall": [
@@ -72782,7 +72266,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "state": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -72942,7 +72425,6 @@
   "input/pg-grimm.txt"
  ],
  "steal": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -73167,7 +72649,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "stiff": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -73204,7 +72685,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "still": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -73425,7 +72905,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "stopped": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -73687,7 +73166,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "stray": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-huckleberry_finn.txt",
   "input/pg-tom_sawyer.txt"
@@ -73712,7 +73190,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "stream": [
-  "input/input3.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
   "input/pg-huckleberry_finn.txt",
@@ -73756,7 +73233,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "strength": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -73773,7 +73249,6 @@
   "input/pg-frankenstein.txt"
  ],
  "strenuous": [
-  "input/input2.txt",
   "input/pg-metamorphosis.txt"
  ],
  "strenuously": [
@@ -73862,7 +73337,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "strikes": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-grimm.txt",
   "input/pg-huckleberry_finn.txt",
@@ -73920,7 +73394,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "stroke": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-grimm.txt",
   "input/pg-huckleberry_finn.txt",
@@ -74238,9 +73711,6 @@
  ],
  "sublimity": [
   "input/pg-tom_sawyer.txt"
- ],
- "subline": [
-  "input/input1.txt"
  ],
  "submission": [
   "input/pg-dorian_gray.txt",
@@ -74752,7 +74222,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "sun": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -74978,7 +74447,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "supplies": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt"
  ],
@@ -75092,7 +74560,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "surface": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -75316,9 +74783,6 @@
  "sustained": [
   "input/pg-frankenstein.txt"
  ],
- "sustains": [
-  "input/input3.txt"
- ],
  "sustenance": [
   "input/pg-frankenstein.txt"
  ],
@@ -75497,7 +74961,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "sweet": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -75821,8 +75284,6 @@
   "input/pg-frankenstein.txt"
  ],
  "t": [
-  "input/input1.txt",
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-grimm.txt",
@@ -75835,7 +75296,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "table": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -75942,7 +75402,6 @@
   "input/pg-frankenstein.txt"
  ],
  "take": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -75953,7 +75412,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "taken": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -75964,7 +75422,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "takes": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -76008,7 +75465,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "talents": [
-  "input/input3.txt",
   "input/pg-frankenstein.txt"
  ],
  "talers": [
@@ -76073,7 +75529,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "tall": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -76454,9 +75909,6 @@
  ],
  "tediously": [
   "input/pg-dorian_gray.txt"
- ],
- "teems": [
-  "input/input3.txt"
  ],
  "teeth": [
   "input/pg-dorian_gray.txt",
@@ -76852,19 +76304,14 @@
   "input/pg-tom_sawyer.txt"
  ],
  "text": [
-  "input/input1.txt",
   "input/pg-grimm.txt",
   "input/pg-huckleberry_finn.txt",
   "input/pg-sherlock_holmes.txt",
   "input/pg-tom_sawyer.txt"
  ],
  "textile": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-metamorphosis.txt"
- ],
- "texts": [
-  "input/input1.txt"
  ],
  "texture": [
   "input/pg-dorian_gray.txt",
@@ -76882,8 +76329,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "than": [
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -76946,9 +76391,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "that": [
-  "input/input1.txt",
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -76972,9 +76414,6 @@
   "input/pg-grimm.txt"
  ],
  "the": [
-  "input/input1.txt",
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -77011,7 +76450,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "their": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -77031,7 +76469,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "them": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -77057,9 +76494,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "then": [
-  "input/input1.txt",
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -77107,8 +76541,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "there": [
-  "input/input1.txt",
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -77143,7 +76575,6 @@
   "input/pg-grimm.txt"
  ],
  "these": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -77157,7 +76588,6 @@
   "input/pg-frankenstein.txt"
  ],
  "they": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -77236,7 +76666,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "thin": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -77270,7 +76699,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "think": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -77371,8 +76799,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "this": [
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -77466,7 +76892,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "thought": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -77519,8 +76944,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "thousand": [
-  "input/input1.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -77530,7 +76953,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "thousands": [
-  "input/input1.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
   "input/pg-sherlock_holmes.txt",
@@ -77644,7 +77066,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "threw": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -77750,7 +77171,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "throw": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -78042,7 +77462,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "time": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -78056,8 +77475,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "times": [
-  "input/input1.txt",
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -78254,9 +77671,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "to": [
-  "input/input1.txt",
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -78503,8 +77917,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "too": [
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -78553,7 +77965,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "top": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -78805,7 +78216,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "towards": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -79018,7 +78428,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "train": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -79099,7 +78508,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "tranquil": [
-  "input/input3.txt",
   "input/pg-frankenstein.txt",
   "input/pg-tom_sawyer.txt"
  ],
@@ -79178,7 +78586,6 @@
   "input/pg-metamorphosis.txt"
  ],
  "transformed": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-metamorphosis.txt",
   "input/pg-sherlock_holmes.txt",
@@ -79310,7 +78717,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "travelling": [
-  "input/input2.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
   "input/pg-metamorphosis.txt",
@@ -79442,7 +78848,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "trees": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -79574,7 +78979,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "trickling": [
-  "input/input3.txt",
   "input/pg-frankenstein.txt",
   "input/pg-huckleberry_finn.txt",
   "input/pg-tom_sawyer.txt"
@@ -79589,7 +78993,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "tried": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -79772,7 +79175,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "troubled": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -80132,7 +79534,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "turn": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -80143,7 +79544,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "turned": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -80501,7 +79901,6 @@
   "input/pg-frankenstein.txt"
  ],
  "unable": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -80792,7 +80191,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "under": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -81285,7 +80683,6 @@
   "input/pg-metamorphosis.txt"
  ],
  "universal": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt"
  ],
@@ -81327,7 +80724,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "unknown": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -81467,9 +80863,6 @@
  ],
  "unopened": [
   "input/pg-sherlock_holmes.txt"
- ],
- "unorthographic": [
-  "input/input1.txt"
  ],
  "unpack": [
   "input/pg-grimm.txt",
@@ -81780,7 +81173,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "until": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -81939,7 +81331,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "upon": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -81950,7 +81341,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "upper": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-grimm.txt",
@@ -81968,7 +81358,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "upright": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -82053,7 +81442,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "us": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -82079,7 +81467,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "used": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -82136,7 +81523,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "using": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -82341,7 +81727,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "valley": [
-  "input/input3.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
   "input/pg-huckleberry_finn.txt",
@@ -82443,9 +81828,6 @@
   "input/pg-frankenstein.txt",
   "input/pg-tom_sawyer.txt"
  ],
- "vapour": [
-  "input/input3.txt"
- ],
  "variable": [
   "input/pg-frankenstein.txt",
   "input/pg-sherlock_holmes.txt"
@@ -82526,7 +81908,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "ve": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-grimm.txt",
@@ -82732,7 +82113,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "vermin": [
-  "input/input2.txt",
   "input/pg-grimm.txt",
   "input/pg-metamorphosis.txt"
  ],
@@ -82744,9 +82124,6 @@
  ],
  "verrons": [
   "input/pg-sherlock_holmes.txt"
- ],
- "versalia": [
-  "input/input1.txt"
  ],
  "verse": [
   "input/pg-dorian_gray.txt",
@@ -82920,7 +82297,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "view": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -82940,7 +82316,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "viewer": [
-  "input/input2.txt",
   "input/pg-metamorphosis.txt"
  ],
  "viewing": [
@@ -83014,7 +82389,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "village": [
-  "input/input1.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -83183,7 +82557,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "visions": [
-  "input/input3.txt",
   "input/pg-frankenstein.txt",
   "input/pg-tom_sawyer.txt"
  ],
@@ -83308,9 +82681,6 @@
  ],
  "voila": [
   "input/pg-sherlock_holmes.txt"
- ],
- "vokalia": [
-  "input/input1.txt"
  ],
  "volcanic": [
   "input/pg-sherlock_holmes.txt"
@@ -83701,7 +83071,6 @@
   "input/pg-metamorphosis.txt"
  ],
  "walls": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -83889,7 +83258,6 @@
   "input/pg-grimm.txt"
  ],
  "warm": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -83936,7 +83304,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "warned": [
-  "input/input1.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-grimm.txt",
   "input/pg-sherlock_holmes.txt",
@@ -84029,9 +83396,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "was": [
-  "input/input1.txt",
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -84077,7 +83441,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "wasn": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-grimm.txt",
@@ -84222,7 +83585,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "waved": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -84278,7 +83640,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "way": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -84468,7 +83829,6 @@
   "input/pg-frankenstein.txt"
  ],
  "weather": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -84634,7 +83994,6 @@
   "input/pg-frankenstein.txt"
  ],
  "weight": [
-  "input/input3.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -84739,7 +84098,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "were": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -84841,7 +84199,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "what": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -84904,9 +84261,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "when": [
-  "input/input1.txt",
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -84936,8 +84290,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "where": [
-  "input/input1.txt",
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -85005,9 +84357,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "which": [
-  "input/input1.txt",
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -85025,7 +84374,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "while": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -85287,8 +84635,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "who": [
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -85308,8 +84654,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "whole": [
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -85527,7 +84871,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "wild": [
-  "input/input1.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
   "input/pg-grimm.txt",
@@ -85735,7 +85078,6 @@
   "input/pg-frankenstein.txt"
  ],
  "window": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -85989,9 +85331,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "with": [
-  "input/input1.txt",
-  "input/input2.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -86036,7 +85375,6 @@
   "input/pg-frankenstein.txt"
  ],
  "within": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -86115,7 +85453,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "woke": [
-  "input/input2.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-grimm.txt",
   "input/pg-huckleberry_finn.txt",
@@ -86190,7 +85527,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "wonderful": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -86327,7 +85663,6 @@
   "input/pg-frankenstein.txt"
  ],
  "word": [
-  "input/input1.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -86433,8 +85768,6 @@
   "input/pg-huckleberry_finn.txt"
  ],
  "world": [
-  "input/input1.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -86487,7 +85820,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "worries": [
-  "input/input2.txt",
   "input/pg-metamorphosis.txt"
  ],
  "worry": [
@@ -86567,8 +85899,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "would": [
-  "input/input1.txt",
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -86579,7 +85909,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "wouldn": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-huckleberry_finn.txt",
@@ -86785,7 +86114,6 @@
   "input/pg-tom_sawyer.txt"
  ],
  "writers": [
-  "input/input1.txt",
   "input/pg-frankenstein.txt",
   "input/pg-sherlock_holmes.txt"
  ],
@@ -87214,7 +86542,6 @@
   "input/pg-frankenstein.txt"
  ],
  "yet": [
-  "input/input3.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -87277,7 +86604,6 @@
   "input/pg-dorian_gray.txt"
  ],
  "you": [
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
@@ -87315,8 +86641,6 @@
   "input/pg-sherlock_holmes.txt"
  ],
  "your": [
-  "input/input1.txt",
-  "input/input2.txt",
   "input/pg-being_ernest.txt",
   "input/pg-dorian_gray.txt",
   "input/pg-frankenstein.txt",
