@@ -1,7 +1,9 @@
 package mapreduce
 
 import (
+	"fmt"
 	"hash/fnv"
+	"log"
 	"os"
 	"path/filepath"
 )
@@ -12,13 +14,33 @@ func hash(s string) uint32 {
     return h.Sum32()
 }
 
-func discoverFiles(inputDir string) ([]MapTask, error) {
+// clean-up
+func cleanupReduceFiles() error {
+	files, err := filepath.Glob("part-reduce-*.json")
+	if err != nil {
+		return fmt.Errorf("glob failed: %v", err)
+	}
+
+	for _, file := range files {
+		err := os.Remove(file)
+		if err != nil {
+			log.Printf("Failed to delete %s: %v", file, err)
+		} else {
+			fmt.Printf("Deleted: %s\n", file)
+		}
+	}
+
+	return nil
+}
+
+// creating taskmetas
+func discoverFiles(inputDir string) ([]TaskMeta, error) {
 	entries, err := os.ReadDir(inputDir)
 	if err != nil {
 		return nil, err
 	}
 
-	var tasks []MapTask
+	var taskmetas []TaskMeta
 	taskID := 0
 	for _, entry := range entries {
 		
@@ -30,12 +52,15 @@ func discoverFiles(inputDir string) ([]MapTask, error) {
 
 		// if file, assign it as a task
 		path := filepath.Join(inputDir, entry.Name())
-		tasks = append(tasks, MapTask{
-			TaskID: taskID,
-			Filename: path,
+		taskmetas = append(taskmetas, TaskMeta{
+			Task: MapTask{
+				TaskID: taskID,
+				Filename: path,
+			},
+			Status: Idle,
 		})
 		taskID++
 	}
 
-	return tasks, nil
+	return taskmetas, nil
 } 
