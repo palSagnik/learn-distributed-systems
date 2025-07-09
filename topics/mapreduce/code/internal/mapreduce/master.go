@@ -10,15 +10,16 @@ import (
 	"path/filepath"
 	"sort"
 	"sync"
+	"time"
 )
 
-// initialise partitions
 const nReducers = 5
+const taskTimeout = 10 * time.Second
 
 // Master represents the coordinator in a MapReduce system that manages task distribution.
 type Master struct {
 	mu             sync.Mutex
-	tasks          []MapTask
+	tasks          []TaskMeta
 	completedTasks map[int]bool
 	nextTask       int
 	invertedIndex  map[string]map[string]struct{}
@@ -27,10 +28,10 @@ type Master struct {
 
 func NewMaster() *Master {
 	return &Master{
-		tasks:         []MapTask{},
+		tasks:          []TaskMeta{},
 		completedTasks: make(map[int]bool),
-		nextTask:      0,
-		invertedIndex: make(map[string]map[string]struct{}),
+		nextTask:       0,
+		invertedIndex:  make(map[string]map[string]struct{}),
 		mapPhaseOutput: make(map[string][]string),
 	}
 }
@@ -42,16 +43,28 @@ func (m *Master) RequestMapTask(_ struct{}, reply *MapTask) error {
 	m.mu.Lock()
 	defer m.mu.Unlock()
 
-	// check if next task is out of bounds
-	if m.nextTask >= len(m.tasks) {
-		reply.TaskID = -1 // no more work
-		return nil
-	}
-
 	// assign task
 	// replacing the reply pointer with the pointer of the actual task
-	*reply = m.tasks[m.nextTask]
-	m.nextTask++
+	now := time.Now()
+	for _, task := range m.tasks {
+		switch task.Status {
+		case Idle:
+			task.Status = Active
+			task.Start = now
+			*reply = task.Task
+			return nil
+		
+		case Active:
+			if now.Sub(task.Start) > taskTimeout {
+				fmt.Printf("Reassigning timed out task: %d\n", task.Task.TaskID)
+				task.Start = now
+				*reply = task.Task
+				return nil
+			}
+		}
+	}
+	
+	reply.TaskID = -1
 	return nil
 }
 
@@ -63,7 +76,8 @@ func (m *Master) ReportMapResult(res MapResult, _ *struct{}) error {
 
 	// mark task as completed
 	m.completedTasks[res.TaskID] = true
-	
+	m.tasks[res.TaskID].Status = Completed
+
 	// grouping map result pairs
 	for _, kv := range res.Pairs {
 		word := kv.Key
@@ -90,7 +104,7 @@ func (m *Master) ReportMapResult(res MapResult, _ *struct{}) error {
 		for i := 0; i < nReducers; i++ {
 			reduceTask := ReduceTask{
 				PartitionID: i,
-				Data: partitions[i],
+				Data:        partitions[i],
 			}
 
 			reduceTasks = append(reduceTasks, reduceTask)
@@ -114,7 +128,7 @@ func (m *Master) ReportMapResult(res MapResult, _ *struct{}) error {
 
 	// cleanup
 	if err := cleanupReduceFiles(); err != nil {
-		return  err
+		return err
 	}
 
 	return nil
@@ -137,7 +151,7 @@ func reduceWorker(task ReduceTask) {
 			deduped = append(deduped, f)
 		}
 		sort.Strings(deduped)
-		
+
 		// output[word] = sorted-dedup-filelist
 		output[word] = deduped
 	}
@@ -191,25 +205,6 @@ func (m *Master) writeInvertedIndex() {
 	}
 }
 
-// clean-up
-func cleanupReduceFiles() error {
-    files, err := filepath.Glob("part-reduce-*.json")
-    if err != nil {
-        return fmt.Errorf("glob failed: %v", err)
-    }
-
-    for _, file := range files {
-        err := os.Remove(file)
-        if err != nil {
-            log.Printf("Failed to delete %s: %v", file, err)
-        } else {
-            fmt.Printf("Deleted: %s\n", file)
-        }
-    }
-
-    return nil
-}
-
 func (m *Master) allTasksCompleted() bool {
 	return len(m.completedTasks) == len(m.tasks)
 }
@@ -236,4 +231,4 @@ func (m *Master) LoadTasks(inputDir string) error {
 	var err error
 	m.tasks, err = discoverFiles(inputDir)
 	return err
-} 
+}

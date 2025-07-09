@@ -29,16 +29,15 @@ code/
 
 ## Usage
 
-```
 
 ### Run
 
 ```bash
 # Start master (in one terminal)
-cd cmd/master && ./master
+go run ./cmd/master
 
 # Start worker (in another terminal)
-cd cmd/worker && ./worker
+go run ./cmd/worker
 ```
 
 ## Architecture
